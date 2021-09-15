@@ -1,0 +1,16 @@
+{
+  "parsers": {
+    "**/*.js": "jsx",
+    "**/*.jsx": "jsx",
+    "**/*.coffee": "coffee",
+    "**/*.litcoffee": "coffee",
+    "**/*.coffee.md": "coffee",
+    "**/*.ts": "typescript",
+    "**/*.tsx": "typescript",
+    "**/*.sass": "sass",
+    "**/*.scss": "sass",
+    "**/*.vue": "vue",
+    "**/*.svelte": "svelte",
+    "**/*.cjs":["es6"]
+  }
+}
