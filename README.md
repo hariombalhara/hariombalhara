@@ -4,7 +4,7 @@ A Software Engineer with a decade of experience in the web, building JavaScript 
 
 I am passionate about Web Technologies and Web Performance.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hariombalhara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hariom Balhara's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariombalhara&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api?username=hariombalhara&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Hariom Balhara's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-74t2.vercel.app/api/top-langs/?username=hariombalhara&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Main Contributions to
